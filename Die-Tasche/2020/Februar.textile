@@ -6,5 +6,22 @@ h4. Read It Later - Februar 2020
 #002 - "Make a README":https://github.com/dguo/make-a-readme.
 #003 - "Urlaub in Hallstatt":https://www.hallstatt.net/. 
 #004 - "Battle of Waterloo":https://en.wikipedia.org/wiki/Battle_of_Waterloo.
-#005 - "روزنامه وقایع اتفاقیه":https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87_%D9%88%D9%82%D8%A7%DB%8C%D8%B9_%D8%A7%D8%AA%D9%81%D8%A7%D9%82%DB%8C%D9%87.
+
+#005 - 
+"روزنامه وقایع اتفاقیه":
+https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87_%D9%88%D9%82%D8%A7%DB%8C%D8%B9_%D8%A7%D8%AA%D9%81%D8%A7%D9%82%DB%8C%D9%87.
+
 #006 - "Copy-and-paste programming":https://en.wikipedia.org/wiki/Copy-and-paste_programming.
+#007 - "Do you copy and paste code from Stack Overflow?":https://dev.to/moopet/do-you-copy-and-paste-code-from-stack-overflow-47d5.
+#008 - "Do Real Programmers Copy/ Paste Code From Stack Overflow?":https://meta.stackoverflow.com/a/323977.
+#009 - "32blit - the retro-inspired handheld console with open-source firmware":https://32blit.com/.
+#010 - "makesite.py":https://github.com/sunainapai/makesite.
+#011 - "ibm.watson":https://www.ibm.com/watson.
+#012 - "Crate DB the #1 database for IoT-scale":https://crate.io/.
+#013 - "deeplearning4j":https://www.google.com/search?q=deeplearning4j
+#014 - "Can Java be used for Machine Learning /Artificial Intelligence?":https://medium.com/nestedif/can-java-be-used-for-machine-learning-artificial-intelligence-42b122d1747e
+
+#015 - "creative commons":https://creativecommons.org/.
+#016 - "la voiture noire":https://www.google.com/search?q=la+voiture+noire
+#017 - "amazon aws marketplace":https://aws.amazon.com/marketplace
+
