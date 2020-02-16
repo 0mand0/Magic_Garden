@@ -1,4 +1,5 @@
-h1.{color:#ff0066} Die Tasche
+h1{color:#ff0066}. Die Tasche
+
 h2. Read It Later - Februar 2020
 
 #001 - make Readme with Textile, "Textile is a markup language":https://textile-lang.com/.
