@@ -4,3 +4,10 @@ Root has at least one file per month.
 There are index file and tag files at the root.
 The tag file contains a list of links to files,
 that have been listed in the Months directory.
+
+
+
+
+
+-----------------------------------------------
+$ mkdir $(date +"%B"-2020)
