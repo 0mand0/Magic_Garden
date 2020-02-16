@@ -1,5 +1,7 @@
 h1{color:#ff0066}. Die Tasche
 
-h2. Read It Later - Februar 2020
+h4. Read It Later - Februar 2020
 
 #001 - make Readme with Textile, "Textile is a markup language":https://textile-lang.com/.
+#002 - "Make a README":https://github.com/dguo/make-a-readme.
+#003 - "Urlaub in Hallstatt":https://www.hallstatt.net/. 
